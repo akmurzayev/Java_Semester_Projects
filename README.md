@@ -1,14 +1,31 @@
 # Java Semester Projects
 
-This repository contains my Java projects for the semester.
+This repository contains two Java Spring projects created during the semester.
 
-## Task 1
-In Task 1, I created a basic Java Spring project.  
-I learned how to create controllers, services, and basic REST endpoints.  
-This task helped me understand the project structure and Spring Boot basics.
+Each project has its own folder and its own README.md file.
+Inside each README file, there is:
+- a short description of the project
+- screenshots showing all use cases of the application
 
-## Task 2
-In Task 2, I created a REST API using Spring Boot.  
-I implemented CRUD operations for products (create, read, update).  
-I also added an H2 in-memory database and used JPA Repository.  
-Swagger was used to test and document the API.
+---
+
+## Project Task 1
+
+Project Task 1 is a basic Spring Boot application.
+It is tested in a web browser (localhost).
+
+The README file inside the Project_Task1 folder includes:
+- a short explanation of what the project does
+- screenshots showing the application running in the browser
+
+---
+
+## Project Task 2
+
+Project Task 2 is a REST API built with Spring Boot.
+It supports CRUD operations for products and uses an H2 in-memory database.
+
+The README file inside the Project_Task2 folder includes:
+- a short explanation of the REST API
+- screenshots of all use cases tested with Postman and Swagger
+- screenshots of the H2 database console
