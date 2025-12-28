@@ -66,3 +66,12 @@ H2 in-memory database and PRODUCTS table.
 
 ![H2 Console](images/H2Console.png)
 ![H2 Database](images/H2DB.png)
+
+### Database Verification
+
+The application was tested using the implemented REST endpoints.
+To verify that the operations affected the database correctly, the following SQL query was executed in the H2 Console:
+
+```sql
+SELECT * FROM PRODUCTS;
+![Database View](images/SelectAllProducts.png)
