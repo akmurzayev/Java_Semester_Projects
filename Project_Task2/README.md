@@ -74,4 +74,6 @@ To verify that the operations affected the database correctly, the following SQL
 
 ```sql
 SELECT * FROM PRODUCTS;
+```
+
 ![Database View](images/SelectAllProducts.png)
